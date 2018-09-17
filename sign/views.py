@@ -109,3 +109,5 @@ def logout(request):
     response = HttpResponseRedirect('/index')
     return response
 1111
+
+222
